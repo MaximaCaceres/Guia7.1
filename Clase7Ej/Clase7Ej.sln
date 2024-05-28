@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase7ControlAcceso", "Clase7ControlAcceso\Clase7ControlAcceso.csproj", "{08E5A4C0-EEE3-493A-BBCB-28A6D745C819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E5A4C0-EEE3-493A-BBCB-28A6D745C819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E5A4C0-EEE3-493A-BBCB-28A6D745C819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E5A4C0-EEE3-493A-BBCB-28A6D745C819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E5A4C0-EEE3-493A-BBCB-28A6D745C819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {397B14F1-2311-4619-BF0A-F88C9E953490}
+	EndGlobalSection
+EndGlobal
